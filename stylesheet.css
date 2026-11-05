@@ -6,3 +6,5 @@ body{font-family:'Lato',Verdana,Helvetica,sans-serif;color:#333;background:#fff;
  .portrait{object-fit:cover}
 
 .social-links{display:flex;justify-content:center;align-items:center;gap:14px;margin-top:12px}.social-links a{display:grid;place-items:center;width:28px;height:28px;color:#24292f;text-decoration:none}.social-links svg{display:block;width:24px;height:24px;fill:currentColor}.social-links .linkedin-icon{color:#0a66c2}.social-links .linkedin-icon svg{width:24px;height:24px}.social-links a:hover{opacity:.75}
+
+.social-links img{display:block;width:24px;height:24px;object-fit:contain}
